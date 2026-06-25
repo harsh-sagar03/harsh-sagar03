@@ -16,7 +16,7 @@ Collaborating with core maintainers to port modern open-source developer tooling
 
 *   **Learning:** Diving deeper into advanced machine learning architectures, LLM integrations, and systems optimization.
 *   **Collaborating:** Always open to teaming up for hackathons and open-source engineering projects.
-*   **Ask Me About:** Python development, scalable web architectures, and balancing ML models with full-stack applications.
+*   **Ask Me About:** Idk man, just dm me or somethin.
 
 ---
 
@@ -43,7 +43,7 @@ Collaborating with core maintainers to port modern open-source developer tooling
     > A zero-knowledge, end-to-end encrypted file sharing platform where client-side decryption keys never reach the backend. Built with React, TypeScript, Supabase, and PostgreSQL.
 
 *   **[BitScope](https://github.com/Yash6163/BitScope)**
-    > A cryptocurrency tracking application utilizing custom data scrapers and an XGBoost machine learning model for predictive analysis.
+    > A Bitcoin tracking application utilizing custom data scrapers and an XGBoost machine learning model for predictive analysis.
 
 *   **[CrediScope](https://github.com/harsh-sagar03/CrediScope)**
     > A highly scalable EdTech platform built on a robust three-tier monolithic architecture using Flask and SQLite.
