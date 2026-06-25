@@ -77,7 +77,7 @@ Collaborating with core maintainers to port modern open-source developer tooling
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-sagar03&theme=dracula&hide_border=true&height=300" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-sagar03&theme=pride&hide_border=true&height=300" width="100%"/>
 </div>
 
 ---
