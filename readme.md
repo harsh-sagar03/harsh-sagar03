@@ -71,7 +71,7 @@ Collaborating with core maintainers to port modern open-source developer tooling
       <img src="https://github-readme-stats.vercel.app/api?username=harsh-sagar03&theme=pride&show_icons=true&hide_border=true&count_private=true" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=harsh-sagar03&theme=pride&hide_border=true" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=harsh-sagar03&theme=dracula&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
