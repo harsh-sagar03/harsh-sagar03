@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Harsh%20Sagar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://img.shields.io/badge/Harsh_Sagar-Profile-blue?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
 
 ### Professional Summary
 Computer Science & Engineering student specializing in core software development, systems optimization, and intelligent data systems. Currently working as an LFX Mentee at The Linux Foundation (zopen community), modernizing the z/OS mainframe ecosystem. I combine algorithmic problem-solving with software engineering to deliver production-quality systems.
