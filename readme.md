@@ -31,10 +31,10 @@ Collaborating with core maintainers to port modern open-source developer tooling
 
 ### Featured Projects
 
-*   **[EnigmaShare](#)**
+*   **[EnigmaShare](https://github.com/harsh-sagar03/enigmashare)**
     > A zero-knowledge, end-to-end encrypted file sharing platform where client-side decryption keys never reach the backend. Built with React, TypeScript, Supabase, and PostgreSQL.
 
-*   **[BitScope](#)**
+*   **[BitScope](https://github.com/Yash6163/BitScope)**
     > A cryptocurrency tracking application utilizing custom data scrapers and an XGBoost machine learning model for predictive analysis.
 
 ---
