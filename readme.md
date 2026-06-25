@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient(90deg,FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF)&height=200&section=header&text=Harsh%20Sagar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient(90deg,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#8B00FF)&height=200&section=header&text=Harsh%20Sagar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 ### Professional Summary
 Computer Science & Engineering student specializing in core software development, systems optimization, and intelligent data systems. Currently working as an LFX Mentee at The Linux Foundation (zopen community), modernizing the z/OS mainframe ecosystem. I combine algorithmic problem-solving with software engineering to deliver production-quality systems.
