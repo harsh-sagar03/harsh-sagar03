@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Pride-Flags_Progress-Pride-Flag.svg/1024px-Pride-Flags_Progress-Pride-Flag.svg.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Harsh%20Sagar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 ### Professional Summary
 Computer Science & Engineering student specializing in core software development, systems optimization, and intelligent data systems. Currently working as an LFX Mentee at The Linux Foundation (zopen community), modernizing the z/OS mainframe ecosystem. I combine algorithmic problem-solving with software engineering to deliver production-quality systems.
