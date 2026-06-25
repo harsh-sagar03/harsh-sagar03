@@ -12,6 +12,14 @@ Collaborating with core maintainers to port modern open-source developer tooling
 
 ---
 
+### Current Focus & Collaboration
+
+*   **Learning:** Diving deeper into advanced machine learning architectures, LLM integrations, and systems optimization.
+*   **Collaborating:** Always open to teaming up for hackathons and open-source engineering projects.
+*   **Ask Me About:** Python development, scalable web architectures, and balancing ML models with full-stack applications.
+
+---
+
 ### Technical Arsenal
 
 **Languages & Core Tech**
@@ -37,12 +45,21 @@ Collaborating with core maintainers to port modern open-source developer tooling
 *   **[BitScope](https://github.com/Yash6163/BitScope)**
     > A cryptocurrency tracking application utilizing custom data scrapers and an XGBoost machine learning model for predictive analysis.
 
+*   **[CrediScope](https://github.com/harsh-sagar03/CrediScope)**
+    > A highly scalable EdTech platform built on a robust three-tier monolithic architecture using Flask and SQLite.
+
+*   **[CogniShift](#)**
+    > An AI-powered browser extension engineered to optimize and automate online workflows.
+
+*   **[Sentinel-JIT](#)**
+    > A prototype for an autonomous cybersecurity deception system focusing on proactive threat modeling.
+
 ---
 
 ### Achievements
 *   **CodeFusion National Innovation Challenge:** Top 10 Finalist.
-*   **Hack & Break Challenge:** Competitor with Team Sentinel Swarm, pitching an AI-driven cybersecurity framework.
-*   **Innovate 3.0 Hackathon:** Built an AI-powered browser extension prototype.
+*   **Hack & Break Challenge:** Competitor with Team Sentinel Swarm.
+*   **Innovate 3.0 Hackathon:** Competitor and Developer.
 
 ---
 
@@ -68,5 +85,6 @@ Collaborating with core maintainers to port modern open-source developer tooling
 ### Let's Connect
 <p align="left">
   <a href="mailto:harshsagar303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harsh-sagar03"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://unstop.com/u/harshsag28003"><img src="https://img.shields.io/badge/Unstop-000000?style=for-the-badge&logoColor=white" /></a>
 </p>
