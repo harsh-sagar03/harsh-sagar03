@@ -57,7 +57,7 @@ Collaborating with core maintainers to port modern open-source developer tooling
 ---
 
 ### Achievements
-*   **CodeFusion National Innovation Challenge:** Top 10 Finalist.
+*   **CodeFusion National Innovation Challenge:** Second Runner-up
 *   **Hack & Break Challenge:** Competitor with Team Sentinel Swarm.
 *   **Innovate 3.0 Hackathon:** Competitor and Developer.
 
